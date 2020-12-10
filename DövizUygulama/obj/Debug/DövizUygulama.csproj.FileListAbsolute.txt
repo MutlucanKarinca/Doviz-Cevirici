@@ -1,0 +1,10 @@
+C:\Users\mutlu\source\repos\Kurs2\DövizUygulama\bin\Debug\DövizUygulama.exe.config
+C:\Users\mutlu\source\repos\Kurs2\DövizUygulama\bin\Debug\DövizUygulama.exe
+C:\Users\mutlu\source\repos\Kurs2\DövizUygulama\bin\Debug\DövizUygulama.pdb
+C:\Users\mutlu\source\repos\Kurs2\DövizUygulama\obj\Debug\DövizUygulama.csprojAssemblyReference.cache
+C:\Users\mutlu\source\repos\Kurs2\DövizUygulama\obj\Debug\DövizUygulama.Form1.resources
+C:\Users\mutlu\source\repos\Kurs2\DövizUygulama\obj\Debug\DövizUygulama.Properties.Resources.resources
+C:\Users\mutlu\source\repos\Kurs2\DövizUygulama\obj\Debug\DövizUygulama.csproj.GenerateResource.cache
+C:\Users\mutlu\source\repos\Kurs2\DövizUygulama\obj\Debug\DövizUygulama.csproj.CoreCompileInputs.cache
+C:\Users\mutlu\source\repos\Kurs2\DövizUygulama\obj\Debug\DövizUygulama.exe
+C:\Users\mutlu\source\repos\Kurs2\DövizUygulama\obj\Debug\DövizUygulama.pdb
